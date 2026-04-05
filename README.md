@@ -161,7 +161,7 @@ npm run build
 
 ## 👩‍💻 About
 
-Built by **Sneha Ann George** — Full-Stack Developer based in Windsor, ON, Canada.
+Built by **Sneha Ann George** — Software Developer based ON, Canada.
 
 Passionate about building software that works for everyone — including the 1 in 4 Canadians living with a disability.
 
