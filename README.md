@@ -2,7 +2,7 @@
 
 An interactive accessibility auditing tool built with React. Paste any HTML snippet and instantly check it against **15 WCAG 2.1 success criteria** across levels A, AA, and AAA — with plain-English explanations, impact ratings, and code fixes for every violation.
 
-**[Live Demo](https://vercel.com/snehagit-webs-projects/wcag-audit-tool)** · **[View Code](https://github.com/SnehaGit-web/wcag-audit-tool)**
+**[Live Demo](https://snehagit-web.github.io/wcag-audit-tool/)** · **[View Code](https://github.com/SnehaGit-web/wcag-audit-tool)**
 
 ---
 
